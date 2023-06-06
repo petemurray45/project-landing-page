@@ -1,2 +1,4 @@
 # project-landing-page
 First CSS Project with TOP
+
+The follwoing document is the final draft of my CSS project within The Odin Project. It was great fun learning and applying the skills learned throughout this section of the course. Although certain aspects were difficult such as placing images correctly and alligning text appropriately - the journey in looking back upon previous lessons and conducting my own research to apply certain characteristics to the website was extremely rewarding. I fully intend to come back and fully flesh out the website with all links fully functional - but for now it's time to move on. 
